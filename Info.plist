@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.ijbaoneadkpkfghcihmgjcdehnmghoej</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Pixel Warfare</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleVersion</key>
+	<string>5481.177</string>
+	<key>CrAppModeShortcutID</key>
+	<string>ijbaoneadkpkfghcihmgjcdehnmghoej</string>
+	<key>CrAppModeShortcutName</key>
+	<string>Pixel Warfare</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://www.crazygames.com/game/pixel-warfare</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/mac/Library/Application Support/Google/Chrome/-/Web Applications/_crx_ijbaoneadkpkfghcihmgjcdehnmghoej</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>110.0.5481.177</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>21E226</string>
+	<key>DTSDKName</key>
+	<string>macosx13.0</string>
+	<key>DTXcode</key>
+	<string>1410</string>
+	<key>DTXcodeBuild</key>
+	<string>14B47b</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.13</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string></string>
+	</array>
+</dict>
+</plist>
